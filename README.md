@@ -38,6 +38,7 @@ Here's where you can learn more about me and connect with me:
 ### 💻 Libraries & Framework
 
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Hackthebox](https://img.shields.io/badge/Hackthebox-563D7C?style=for-the-badge&logo=hackthebox&logoColor=white&color=green)
 
 ### 🧑🏻‍💻 Tools & Platform
 
