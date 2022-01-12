@@ -39,16 +39,18 @@ Here's where you can learn more about me and connect with me:
 
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-### 🔧 Tools & Platform & OS
+### 🔧 Tools & Platform
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white)
 ![Hackthebox](https://img.shields.io/badge/Hackthebox-563D7C?style=for-the-badge&logo=hackthebox&logoColor=white&color=green)
+
+### 🪟 Operating Systems
+
 ![Windows](https://img.shields.io/badge/Windows-1AA260?style=for-the-badge&logo=windows&logoColor=white&color=blue)
-
-
+![Linux](https://img.shields.io/badge/Linux-1AA260?style=for-the-badge&logo=linux&logoColor=white&color=black)
 
 ## 📈 Stats
 
