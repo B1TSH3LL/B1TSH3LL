@@ -18,7 +18,7 @@ Here's where you can learn more about me and connect with me:
 		<img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" />
 	</a>
   <a href="https://github.com/B1TSH3LL/">
-		<img src="https://img.shields.io/badge/Profile-1AA260?style=for-the-badge&logo=github&logoColor=white&color=black" />
+		<img src="https://img.shields.io/badge/Profile-1AA260?style=for-the-badge&logo=github&logoColor=white&color=gray" />
 	</a>
   <a href="mailto:shrivastavapiyush781@gmail.com">
 		<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
