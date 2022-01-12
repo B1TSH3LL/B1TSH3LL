@@ -27,7 +27,7 @@ Here's where you can learn more about me and connect with me:
 
 ## ⚡ Tech Stack
 
-### 🚀 Languages
+### 💻 Languages
 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -35,17 +35,19 @@ Here's where you can learn more about me and connect with me:
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### 💻 Libraries & Framework
+### 🔥 Libraries & Framework
 
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-### 🧑🏻‍💻 Tools & Platform
+### 🔧 Tools & Platform & OS
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white)
 ![Hackthebox](https://img.shields.io/badge/Hackthebox-563D7C?style=for-the-badge&logo=hackthebox&logoColor=white&color=green)
+![Windows](https://img.shields.io/badge/Windows-1AA260?style=for-the-badge&logo=windows&logoColor=white&color=blue)
+
 
 
 ## 📈 Stats
