@@ -51,6 +51,8 @@ Here's where you can learn more about me and connect with me:
 
 ![Windows](https://img.shields.io/badge/Windows-1AA260?style=for-the-badge&logo=windows&logoColor=white&color=blue)
 ![Linux](https://img.shields.io/badge/Linux-1AA260?style=for-the-badge&logo=linux&logoColor=white&color=black)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-1AA260?style=for-the-badge&logo=ubuntu&logoColor=white&color=purple)
+![Android](https://img.shields.io/badge/Android-1AA260?style=for-the-badge&logo=android&logoColor=white&color=green)
 
 ## 📈 Stats
 
