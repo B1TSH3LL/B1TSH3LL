@@ -41,7 +41,7 @@ Here's where you can learn more about me and connect with me:
 ![jquey](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
 ![NPM](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 ![Nodejs](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![ExpressJS](https://github.com/MarioTerron/logo-images/blob/master/logos/expressjs.png)
+![ExpressJS](https://img.shields.io/badge/Express.js-339933?style=for-the-badge&logo=expressdotjs&logoColor=red&color=white)
 
 ### 🔧 Tools & Platform
 
