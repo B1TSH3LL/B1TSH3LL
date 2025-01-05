@@ -50,6 +50,7 @@ Here's where you can learn more about me and connect with me:
 ![jquey](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
 
 ![NPM](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
+![REDUX](https://img.shields.io/badge/-Redux-black?style=flat-square&logo=redux)
 
 
 ### 🛢️ Databases
